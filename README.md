@@ -2,7 +2,7 @@
 
 * This code references the book [Neural Network and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)  
 
-* To run the code, please download minist handwritting source file
+* To run the code, please download minist handwritting source file from [Mnist](http://yann.lecun.com/exdb/mnist)
 
 * The code doesn't set a validation set
 
